@@ -61,7 +61,7 @@ If the program runs successfully, the **return value** is the amount of chars pr
 | size.c | |
 | utils.c | |
 
-------------
+-------------
 
 ### Authors
 Zechariah Gaiya
